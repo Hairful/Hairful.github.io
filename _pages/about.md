@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to the personal website of Allen Yang!
+Welcome to my personal website!
 
-I am currently a third-year student at East China Normal University, majoring in Software Engineering. 
+I am currently a third-year undergraduate student at East China Normal University, majoring in Software Engineering. 
 
-This website is currently under construction.
+Besides learning, I like hiking, playing soccer, and photographing.
