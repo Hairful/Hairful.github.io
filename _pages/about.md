@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Welcome to the personal website of Allen Yang!
-I am currently a third-year student at East China Normal University, Majoring in Software Engineering. I am also an exchange student at the College of Letters and Science, UC Berkeley.
+I am currently a third-year student at East China Normal University, majoring in Software Engineering. I am also an exchange student at the College of Letters and Science, UC Berkeley.
 
 I am interested in the latest technologies.
 
