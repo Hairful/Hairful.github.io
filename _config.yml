@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunan (Allen) Yang"
+title                    : "Allen Yang"
 title_separator          : "-"
-name                     : &name "Yunan (Allen) Yang"
+name                     : &name "Allen Yang"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yunan (Allen) Yang"
+  name             : "Allen Yang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
