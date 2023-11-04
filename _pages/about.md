@@ -12,4 +12,4 @@ Welcome to my personal website!
 
 I am currently a third-year undergraduate student at East China Normal University, majoring in Software Engineering. 
 
-Besides learning, I like hiking, playing soccer, and photographing.
+My personality is ENTJ:) Besides learning, I like hiking, playing soccer, and photographing.
