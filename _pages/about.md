@@ -13,4 +13,6 @@ I am currently a third-year student at East China Normal University, majoring in
 
 I am interested in the latest technologies.
 
+I love playing soccer, hiking, photographing, and tasting different kinds of delicious foods! 
+
 (This website is currently under construction)
