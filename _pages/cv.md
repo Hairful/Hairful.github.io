@@ -11,32 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BISP Concurrent Enrollment, College of Letter and Science, UC Berkeley, Fall 2023
+* B.Eng. in Software Engineering, East China Normal University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May. 2024 - Aug. 2024: R&D Intern
+  * ABB Engineering (Shanghai) Ltd.
+  * Duties indcluded: Maintainance a Windows Desktop application (C++)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Object-Oriented Programming (C++, Python, Java)
+* Machine Learning: PyTorch
+* Language
+  * Mandarine (native)
+  * English (TOEFL 112)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -52,8 +44,8 @@ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Director of the *Academic Development Department* of the *East China Normal University Student Union*.
