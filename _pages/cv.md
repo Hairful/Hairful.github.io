@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* BISP Concurrent Enrollment, College of Letter and Science, UC Berkeley, Fall 2023
-* B.Eng. in Software Engineering, East China Normal University, 2025 (expected)
+* BISP Concurrent Enrollment, College of Letter and Science, UC Berkeley, CA, USA Fall 2023
+  * CS170, CS189, EECS127
+  * GPA: 3.90/4.00
+* B.Eng. in Software Engineering, East China Normal University, Shanghai, China 2025 (expected)
+  * GPA: top 7%
 
 Work experience
 ======
@@ -26,7 +29,7 @@ Skills
 * Machine Learning: PyTorch
 * Language
   * Mandarine (native)
-  * English (TOEFL 112)
+  * English (proficient, TOEFL 112)
 
 <!-- Publications
 ======
@@ -46,6 +49,7 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Service and leadership
+Leaderships and Awards
 ======
-* Director of the *Academic Development Department* of the *East China Normal University Student Union*.
+* Director of the *Academic Development Department* of the *East China Normal University Student Union*
+* 1st & 2nd Award in Scholarship
