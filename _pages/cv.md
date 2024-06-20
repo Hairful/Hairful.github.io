@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
+* B.Eng. in Software Engineering, East China Normal University, Shanghai, China 2025 (expected)
+  * GPA: top 7%
 * BISP Concurrent Enrollment, College of Letter and Science, UC Berkeley, CA, USA Fall 2023
   * CS170, CS189, EECS127
   * GPA: 3.90/4.00
-* B.Eng. in Software Engineering, East China Normal University, Shanghai, China 2025 (expected)
-  * GPA: top 7%
+[](../images/ucb.png)
 
 Work experience
 ======
