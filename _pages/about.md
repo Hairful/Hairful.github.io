@@ -16,4 +16,6 @@ In May 2024, I secured my first internship as an R&D intern in the PAMA Group at
 
 I also serve as one of the Directors of the *Academic Development Department* of the *East China Normal University Student Union*.
 
+**I am now actively applying for a Master's Degree in Computer Science/Computer Engineering/Software Engineering. If you have any opportunities, please contact me: allenyya[underscore]work[at]outlook[dot]com.**
+
 My personality is ENTJ:) Besides learning, I like hiking, playing soccer, and photographing.
