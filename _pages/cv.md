@@ -11,15 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Software Engineering, East China Normal University, Shanghai, China 2025 (expected) <span> <img title="ECNU" alt="ECNU" src="../images/ECNU.svg" height=1 align=right> </span>
+* B.Eng. in Software Engineering, East China Normal University, Shanghai, China 2025 (expected) <span> <img title="ECNU" alt="ECNU" src="../images/ECNU.svg" style="width:200px;height:auto;" align=right> </span>
   * GPA: 3.72/4.00 (rank top 5.86%👍)
-* BISP Concurrent Enrollment, College of Letter and Science, UC Berkeley, CA, USA Fall 2023 <span> <img title="UCBerkeley" alt="UCBerkeley" src="../images/ucb.png" height=2 align=right> </span>
+* BISP Concurrent Enrollment, College of Letter and Science, UC Berkeley, CA, USA Fall 2023 <span> <img title="UCBerkeley" alt="UCBerkeley" src="../images/ucb.png" style="width:200px;height:auto;" align=right> </span>
   * CS170, CS189, EECS127
   * GPA: 3.90/4.00
 
 Work experience
 ======
-* May. 2024 - Aug. 2024: R&D Intern <span> <img title="ABB" alt="ABB" src="../images/abb.png" height=2 align=right> </span>
+* May. 2024 - Aug. 2024: R&D Intern <span> <img title="ABB" alt="ABB" src="../images/abb.png" style="width:200px;height:auto;" align=right> </span>
   * ABB Engineering (Shanghai) Ltd.
   * Duties indcluded: Maintainance a Windows Desktop application (C++)
   
