@@ -21,7 +21,7 @@ Work experience
 ======
 * May. 2024 - Aug. 2024: R&D Intern <span> <img title="ABB" alt="ABB" src="../images/abb.png" style="width:200px;height:auto;" align=right> </span>
   * ABB Engineering (Shanghai) Ltd.
-  * Duties indcluded: Maintainance a Windows Desktop application (C++)
+  * Duties included: Maintaining a Windows Desktop application (C++), providing handy tools, and unit testing on an embedded software (C) based on CMock.
   
 Skills
 ======
