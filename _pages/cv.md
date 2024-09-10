@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.Eng. in Software Engineering, East China Normal University, Shanghai, China 2025 (expected) <span> <img title="ECNU" alt="ECNU" src="../images/ECNU.svg" style="width:150px;height:auto;" align=right> </span>
-  * GPA: 3.72/4.00 (rank top 5.86%👍)
+  * GPA: 3.72/4.00 (rank top 4%👍)
 * BISP Concurrent Enrollment, College of Letter and Science, UC Berkeley, CA, U.S.A. Fall 2023 <span> <img title="UCBerkeley" alt="UCBerkeley" src="../images/ucb.png" style="width:150px;height:auto;" align=right> </span>
   * CS170, CS189, EECS127
   * GPA: 3.90/4.00
